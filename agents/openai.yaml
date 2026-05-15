@@ -1,0 +1,4 @@
+interface:
+  display_name: "软工老师偏好"
+  short_description: "Software engineering course grading preferences"
+  default_prompt: "Use $software-engineering-teacher-preferences to review this course project document for process evidence, requirements rigor, and grading risks."
